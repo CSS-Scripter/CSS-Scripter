@@ -6,6 +6,6 @@ Check out my latest project: [PixelFont](https://pixelfont.style), a pure CSS fo
 
 - 🔭 I’m currently working on a developer platform
 - 🌱 I’m currently learning Go & GoFiber
-- 📫 How to reach me: hi@mylocalhost.app
+- 📫 How to reach me: hi@LNMN.nl
 
 Discord: CSS Scripter#2885
