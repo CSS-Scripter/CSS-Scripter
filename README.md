@@ -6,8 +6,6 @@ It's just your regular old software developing student. Here's some things that 
 - Creating my own startup, together with [LNGZL](https://github.com/abcdan)
 - Learning [Golang](https://go.dev/) & [Elixir](https://elixir-lang.org/) | Progress visible in [this repo](https://github.com/CSS-Scripter/AdventOfCode)
 - Learning [NestJS](https://nestjs.com/) & [Svelte](https://svelte.dev/) | Currently no public repo's to check up on :/
-- [Advent of Code](https://adventofcode.com/2021)
-- [Advent of Cyber](https://tryhackme.com/christmas)
 
 Ways of contact:
 
