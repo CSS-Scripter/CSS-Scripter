@@ -19,5 +19,4 @@ Ways of contact:
 ![stats](https://ghstats.lnmn.nl/api?username=CSS-Scripter&bg_color=-45,364156,364156,7D4E57,7D4E57&hide_border=true&hide_title=true&text_color=ffffff)
 
 ![top-langs](https://ghstats.lnmn.nl/api/top-langs?username=CSS-Scripter&bg_color=-45,364156,364156,7D4E57,7D4E57&hide_border=true&hide_title=true&text_color=ffffff&layout=compact&langs_count=6)
-
 ![waka-time](https://ghstats.lnmn.nl/api/wakatime?username=CSS_Scripter&bg_color=-45,364156,364156,7D4E57,7D4E57&hide_border=true&hide_title=true&text_color=ffffff&layout=compact&langs_count=6)
