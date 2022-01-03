@@ -20,4 +20,4 @@ Ways of contact:
 
 ![top-langs](https://ghstats.lnmn.nl/api/top-langs?username=CSS-Scripter&bg_color=-45,364156,364156,7D4E57,7D4E57&hide_border=true&hide_title=true&text_color=ffffff&layout=compact&langs_count=6)
 
-![waka-time](https://github-readme-stats.vercel.app/api/wakatime?username=CSS_Scripter&bg_color=-45,364156,364156,7D4E57,7D4E57&hide_border=true&hide_title=true&text_color=ffffff)
+![waka-time](https://ghstats.lnmn.nl/api/wakatime?username=CSS_Scripter&bg_color=-45,364156,364156,7D4E57,7D4E57&hide_border=true&hide_title=true&text_color=ffffff&layout=compact&langs_count=6)
