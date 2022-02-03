@@ -16,7 +16,7 @@ Ways of contact:
 
 ### [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 
-![stats](https://ghstats.lnmn.nl/api?username=CSS-Scripter&bg_color=-45,364156,364156,7D4E57,7D4E57&hide_border=true&hide_title=true&text_color=ffffff)
+![stats](https://github-readme-stats.vercel.app/api?username=CSS-Scripter&bg_color=-45,364156,364156,7D4E57,7D4E57&hide_border=true&hide_title=true&text_color=ffffff)
 
-![top-langs](https://ghstats.lnmn.nl/api/top-langs?username=CSS-Scripter&bg_color=-45,364156,364156,7D4E57,7D4E57&hide_border=true&hide_title=true&text_color=ffffff&layout=compact&langs_count=6)
-![waka-time](https://ghstats.lnmn.nl/api/wakatime?username=CSS_Scripter&bg_color=-45,364156,364156,7D4E57,7D4E57&hide_border=true&hide_title=true&text_color=ffffff&layout=compact&langs_count=6)
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=CSS-Scripter&bg_color=-45,364156,364156,7D4E57,7D4E57&hide_border=true&hide_title=true&text_color=ffffff&layout=compact&langs_count=6)
+![waka-time](https://github-readme-stats.vercel.app/api/wakatime?username=CSS_Scripter&bg_color=-45,364156,364156,7D4E57,7D4E57&hide_border=true&hide_title=true&text_color=ffffff&layout=compact&langs_count=6)
