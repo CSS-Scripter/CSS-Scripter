@@ -2,8 +2,7 @@
 
 It's just your regular old software developing student. Here's some things that keep me busy:
 
-- Working as intern software developer for a modelling startup
-- Creating my own startup, together with [LNGZL](https://github.com/abcdan)
+- Working on my own startup: [Heya Social](https://heya.social), together with [LNGZL](https://github.com/abcdan)
 - Learning [Golang](https://go.dev/) & [Elixir](https://elixir-lang.org/) | Progress visible in [this repo](https://github.com/CSS-Scripter/AdventOfCode)
 - Learning [NestJS](https://nestjs.com/) & [Svelte](https://svelte.dev/) | Currently no public repo's to check up on :/
 
